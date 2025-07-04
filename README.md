@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm Maneesh Balakrishnan</h1>
 
 <p align="center">
-💼 Data Analyst | 📊 Power BI Developer | 📦 Retail & Supply Chain Data Specialist  
-</p>
+💼 Data Analyst | 📊 Power BI Developer | 📦 Retail & Healthcare
 
 ---
 
